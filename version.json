@@ -1,5 +1,5 @@
 {
-  "latest_version": "6.7.11",
+  "latest_version": "6.7.10",
   "download_url": "https://github.com/woodplans/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
   "release_notes": "Premium update notification, download progress UI, scraper stability improvements, and better installer flow.",
   "force_update": false
