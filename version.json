@@ -1,6 +1,6 @@
 {
-  "latest_version": "v6.7.12",
+  "latest_version": "v6.7.13",
   "download_url": "https://github.com/woodplans/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-  "release_notes": "Improves target category scraping, duplicate filtering, target 100 scraping behavior, finalizing progress status, and Market Research save flow.",
+  "release_notes": "Saved Categories support multi-select, All categories are processed one by one, Category results are combined.",
   "force_update": false
 }
