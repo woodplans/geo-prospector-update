@@ -1,6 +1,6 @@
 {
   "latest_version": "v6.7.12",
   "download_url": "https://github.com/woodplans/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-  "release_notes": "Geo Prospector v6.7.12 improves target category scraping, duplicate filtering, target 100 scraping behavior, finalizing progress status, and Market Research save flow.",
+  "release_notes": "Improves target category scraping, duplicate filtering, target 100 scraping behavior, finalizing progress status, and Market Research save flow.",
   "force_update": false
 }
