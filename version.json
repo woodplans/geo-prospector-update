@@ -1,0 +1,8 @@
+{
+  "version": "6.7.12.1",
+  "download_url": "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
+  "sha256": "HASH_INSTALLER_FINAL",
+  "size_bytes": 12345678,
+  "mandatory": false,
+  "release_notes": "Fixes for single search, multiselect, dedupe, license security, and stability."
+}
