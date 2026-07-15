@@ -1,11 +1,6 @@
 {
-    "latest_version":  "6.7.12.1",
-    "version":  "6.7.12.1",
-    "latestVersion":  "6.7.12.1",
-    "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-    "sha256":  "25371EE5C5E4E9C5FD7CAD59D1C66AD253FD629FF1479CF83D4C546378CF83",
-    "size_bytes":  253279194,
-    "force_update":  false,
-    "mandatory":  false,
-    "release_notes":  "Perbaikan single search, multiselect sequential, pembagian kuota kategori, duplicate filter, progress scraping, keamanan lisensi, dan build integrity."
+  "latest_version": "v6.7.12.1",
+  "download_url": "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
+  "release_notes": "Fixes for single search, multiselect, dedupe, license security, and stability.",
+  "force_update": false
 }
