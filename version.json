@@ -1,6 +1,6 @@
 {
-  "latest_version": "v6.7.12.1",
-  "download_url": "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-  "release_notes": "Fixes for single search, multiselect, dedupe, license security, and stability.",
-  "force_update": false
+    "latest_version":  "v6.7.15.1",
+    "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
+    "release_notes":  "Device activation, dynamic WhatsApp support, multi-category display improvements, update compatibility, signed security anchor, and stability improvements.",
+    "force_update":  false
 }
