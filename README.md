@@ -125,3 +125,17 @@ Use the **Send Activation Request** button inside the application to contact Cus
 
 Copyright © 2026 Visi Digital Internasional. All rights reserved.
 
+<!-- ESTABLISHED_RELEASE_6_7_16_3_START -->
+## Latest Established Release — v6.7.16.3
+
+Geo Prospector Established Edition v6.7.16.3 is a maintenance release based on the verified v6.7.15.1 source.
+
+- Installer: [GeoProspectorSetup.exe](https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe)
+- SHA-256: $installerHash
+- Size: $(C:\APKPC\geo_prospector_editions\established_6_7_16_3\dist_installer\GeoProspectorSetup.exe.Length) bytes
+- Security manifest: 6.7.16.3
+- Mandatory update: alse
+- Release page: [v6.7.16.3](https://github.com/visi-digital-internasional/geo-prospector-update/releases/tag/v6.7.16.3)
+
+The Established public key and application business logic are unchanged.
+<!-- ESTABLISHED_RELEASE_6_7_16_3_END -->
