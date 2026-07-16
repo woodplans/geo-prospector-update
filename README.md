@@ -125,21 +125,3 @@ Use the **Send Activation Request** button inside the application to contact Cus
 
 Copyright © 2026 Visi Digital Internasional. All rights reserved.
 
-<!-- GEO_PROSPECTOR_RELEASE_START -->
-## Current Established Edition
-
-| Field | Value |
-|---|---|
-| Version | `v6.7.16.2` |
-| Release date | `16 July 2026` |
-| Installer size | `253258639 bytes` |
-| Installer SHA-256 | `7907A6E84B6E0B4E785966FBFB535D9567817ABD055F89E08EAC16C2105C5C23` |
-| Public-key fingerprint | `67B64034CD77BE4018EC8102D36F8469548EE0DDCFE87CC322D26DDCFE036A35` |
-
-This release fixes copyright encoding, Windows version metadata, and the installer icon.
-
-- [Download latest installer](https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe)
-- [View release](https://github.com/visi-digital-internasional/geo-prospector-update/releases/tag/v6.7.16.2)
-- [Official website](https://geoprospector.id/)
-- [Documentation](https://visi-digital-internasional.gitbook.io/geo-prospector)
-<!-- GEO_PROSPECTOR_RELEASE_END -->
