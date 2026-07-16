@@ -1,6 +1,6 @@
 {
-    "latest_version":  "v6.7.16.1",
+    "latest_version":  "v6.7.16.2",
     "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-    "release_notes":  "Added the official Visi Digital Internasional copyright footer and rebuilt the signed Established Edition release.",
+    "release_notes":  "Fixed copyright encoding, Windows product-version metadata, and installer icon; rebuilt the signed Established Edition release.",
     "force_update":  false
 }
