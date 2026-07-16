@@ -1,6 +1,6 @@
 {
-    "latest_version":  "v6.7.15.1",
+    "latest_version":  "v6.7.16.1",
     "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/latest/download/GeoProspectorSetup.exe",
-    "release_notes":  "Device activation, dynamic WhatsApp support, multi-category display improvements, update compatibility, signed security anchor, and stability improvements.",
+    "release_notes":  "Added the official Visi Digital Internasional copyright footer and rebuilt the signed Established Edition release.",
     "force_update":  false
 }
