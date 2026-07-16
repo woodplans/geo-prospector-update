@@ -135,7 +135,6 @@ Geo Prospector Established Edition v6.7.16.3 is a maintenance release based on t
 - Size: $(C:\APKPC\geo_prospector_editions\established_6_7_16_3\dist_installer\GeoProspectorSetup.exe.Length) bytes
 - Security manifest: 6.7.16.3
 - Mandatory update: alse
-- Release page: [v6.7.16.3](https://github.com/visi-digital-internasional/geo-prospector-update/releases/tag/v6.7.16.3)
 
 The Established public key and application business logic are unchanged.
 <!-- ESTABLISHED_RELEASE_6_7_16_3_END -->
