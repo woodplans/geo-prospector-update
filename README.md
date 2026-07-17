@@ -133,7 +133,7 @@ Use the **Send Activation Request** button inside the application to contact Cus
 
 **Visi Digital Internasional**
 
-Copyright Ã‚Â© 2026 Visi Digital Internasional. All rights reserved.
+Copyright 2026 Visi Digital Internasional. All rights reserved.
 
 <!-- ESTABLISHED_RELEASE_6_7_16_3_START -->
 ## Latest Established Release v6.7.16.3
