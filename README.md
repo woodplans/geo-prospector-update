@@ -8,7 +8,7 @@ Geo Prospector 6.7.18.1 introduces the dedicated Email Finder with Google Maps d
 - [Download installer](https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.18.1/GeoProspectorSetup.exe)
 - SHA-256: 75C5D7CCCAAB3DDE886952B4B9751E5313D8EA910A7FEDC288EF82DABF2BB1DC
 <!-- /RELEASE-6.7.18.1 -->
-# Geo Prospector Ã¢â‚¬â€ Established Edition
+# Geo Prospector Established Edition
 
 **Geo Prospector** is a Windows desktop application designed to help users discover and collect business prospect data based on business categories and locations.
 
@@ -136,7 +136,7 @@ Use the **Send Activation Request** button inside the application to contact Cus
 Copyright Ã‚Â© 2026 Visi Digital Internasional. All rights reserved.
 
 <!-- ESTABLISHED_RELEASE_6_7_16_3_START -->
-## Latest Established Release Ã¢â‚¬â€ v6.7.16.3
+## Latest Established Release v6.7.16.3
 
 Geo Prospector Established Edition v6.7.16.3 is a maintenance release based on the verified v6.7.15.1 source.
 
