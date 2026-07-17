@@ -1,4 +1,4 @@
-# Geo Prospector — Established Edition
+# Geo Prospector â€” Established Edition
 
 **Geo Prospector** is a Windows desktop application designed to help users discover and collect business prospect data based on business categories and locations.
 
@@ -123,10 +123,10 @@ Use the **Send Activation Request** button inside the application to contact Cus
 
 **Visi Digital Internasional**
 
-Copyright © 2026 Visi Digital Internasional. All rights reserved.
+Copyright Â© 2026 Visi Digital Internasional. All rights reserved.
 
 <!-- ESTABLISHED_RELEASE_6_7_16_3_START -->
-## Latest Established Release — v6.7.16.3
+## Latest Established Release â€” v6.7.16.3
 
 Geo Prospector Established Edition v6.7.16.3 is a maintenance release based on the verified v6.7.15.1 source.
 
@@ -138,3 +138,24 @@ Geo Prospector Established Edition v6.7.16.3 is a maintenance release based on t
 
 The Established public key and application business logic are unchanged.
 <!-- ESTABLISHED_RELEASE_6_7_16_3_END -->
+
+## Version 6.7.17.1
+
+Released 17 July 2026.
+
+### Improvements
+
+- Expanded Google Maps coverage using multiple geographic viewports.
+- Improved persistent duplicate filtering.
+- Continues collecting candidates after previous results are skipped.
+- Added data-count options: 200, 300, 400, and 500.
+- Dynamic scraping estimates with and without Email Finder.
+- Enterprise supports up to 500 data per search.
+- Business supports up to 300 data per search.
+- UTF-8 BOM-safe dedupe index reader.
+- Improved Google Maps Place ID identity matching.
+- Shared domains such as Linktree are no longer treated as unique business identities.
+
+### Download
+
+[Download GeoProspectorSetup.exe](https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.17.1/GeoProspectorSetup.exe)
