@@ -1,13 +1,13 @@
 
-<!-- RELEASE-6.7.18.1 -->
-## Latest release: 6.7.18.1
+<!-- RELEASE-6.7.19.1 -->
+## Latest release: 6.7.19.1
 
-Geo Prospector 6.7.18.1 introduces the dedicated Email Finder with Google Maps discovery, fast public-email extraction, per-email MX validation, parallel processing, searchable locations, company-based credit usage, and CSV/Excel export.
+Geo Prospector 6.7.19.1 introduces the redesigned website-list Email Finder powered by a protected Python backend, inline B2B prospecting results, remote plan quotas, and Custom license support.
 
-- [Release notes](docs/releases/6.7.18.1.md)
-- [Download installer](https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.18.1/GeoProspectorSetup.exe)
-- SHA-256: 75C5D7CCCAAB3DDE886952B4B9751E5313D8EA910A7FEDC288EF82DABF2BB1DC
-<!-- /RELEASE-6.7.18.1 -->
+- [Release notes](docs/releases/6.7.19.1.md)
+- [Download installer](https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.19.1/GeoProspectorSetup.exe)
+- SHA-256: 8B06EA61BA153523BC108A0053F0C3D3714C7976B70DF26920CBAB108AD21885
+<!-- /RELEASE-6.7.19.1 -->
 # Geo Prospector Established Edition
 
 **Geo Prospector** is a Windows desktop application designed to help users discover and collect business prospect data based on business categories and locations.
