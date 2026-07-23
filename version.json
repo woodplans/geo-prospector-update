@@ -1,10 +1,10 @@
 {
-    "latest_version":  "6.7.22.1",
-    "version":  "6.7.22.1",
-    "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.22.1/GeoProspectorSetup.exe",
-    "release_notes":  "Country Engine 3-Stage v5.0, frozen Province Engine v4.8, exact-category search, target options up to 500 records, bundled Node.js and Playwright runtime, protected Email Finder backend, signed security anchor, and final UI result-import and estimated-time corrections.",
+    "latest_version":  "6.7.23.1",
+    "version":  "6.7.23.1",
+    "download_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/download/v6.7.23.1/GeoProspectorSetup.exe",
+    "release_notes":  "Adds canonical B2B category enforcement, license limits up to 5,000 results, graceful Stop with partial-result and credit preservation, Email Finder support for 5,000 domains, and calibrated live processing estimates.",
     "force_update":  false,
-    "sha256":  "6C6FC5EB5277B8A81F43E1DD154F16A332AFF97B4D23A515D8B9477CA8E688B7",
-    "published_at":  "2026-07-22",
-    "release_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/tag/v6.7.22.1"
+    "sha256":  "6785F71605AB56C9ACAD611AFF58FD598FABD23230A0AEF02420937C49F7840D",
+    "published_at":  "2026-07-24",
+    "release_url":  "https://github.com/visi-digital-internasional/geo-prospector-update/releases/tag/v6.7.23.1"
 }
